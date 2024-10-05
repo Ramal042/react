@@ -1,0 +1,26 @@
+.div{
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+}
+
+.btn{
+    width: 130px;
+    height: 42px;
+    background-color: #4e4348;
+    color: #ffce4e;
+    border: 1px solid #ffce4e;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: black;
+    border-radius: 5px;
+    color: #ffce4e;
+}

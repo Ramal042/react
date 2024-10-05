@@ -1,0 +1,328 @@
+{
+    "nft":[
+        {
+          "id": 1,
+          "nftName": "Virtual Art",
+          "creatorName": "wzard",
+          "currentBid": 4.89,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 92
+        },
+        {
+          "id": 2,
+          "nftName": "Digital Canvas",
+          "creatorName": "artMaster",
+          "currentBid": 3.5,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 150
+        },
+        {
+          "id": 3,
+          "nftName": "Pixel Dreams",
+          "creatorName": "pixlGenius",
+          "currentBid": 6.25,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 80
+        },
+        {
+          "id": 4,
+          "nftName": "Crypto Jungle",
+          "creatorName": "wildArt",
+          "currentBid": 2.3,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 70
+        },
+        {
+          "id": 5,
+          "nftName": "Futuristic City",
+          "creatorName": "futureVibes",
+          "currentBid": 5.75,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 210
+        },
+        {
+          "id": 6,
+          "nftName": "Retro Wave",
+          "creatorName": "retroRider",
+          "currentBid": 7.1,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 120
+        },
+        {
+          "id": 7,
+          "nftName": "Abstract Vibes",
+          "creatorName": "colorArtist",
+          "currentBid": 8.45,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 240
+        },
+        {
+          "id": 8,
+          "nftName": "Mystic Forest",
+          "creatorName": "natureLover",
+          "currentBid": 4.95,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 105
+        },
+        {
+          "id": 9,
+          "nftName": "Sunset Boulevard",
+          "creatorName": "goldenHour",
+          "currentBid": 1.75,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 60
+        },
+        {
+          "id": 10,
+          "nftName": "Neon Dreams",
+          "creatorName": "cityNight",
+          "currentBid": 9.35,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 320
+        },
+        {
+          "id": 11,
+          "nftName": "Electric Pulse",
+          "creatorName": "shockwave",
+          "currentBid": 2.99,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 85
+        },
+        {
+          "id": 12,
+          "nftName": "Glitch Reality",
+          "creatorName": "techWiz",
+          "currentBid": 5.45,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 175
+        },
+        {
+          "id": 13,
+          "nftName": "Galactic Dreams",
+          "creatorName": "spaceArtist",
+          "currentBid": 3.1,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 140
+        },
+        {
+          "id": 14,
+          "nftName": "Cyber Vision",
+          "creatorName": "cyberMaster",
+          "currentBid": 8.85,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 290
+        },
+        {
+          "id": 15,
+          "nftName": "Ocean Breeze",
+          "creatorName": "waveRider",
+          "currentBid": 6.99,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 225
+        },
+        {
+          "id": 16,
+          "nftName": "Infinite Loop",
+          "creatorName": "codeGenius",
+          "currentBid": 7.75,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 195
+        },
+        {
+          "id": 17,
+          "nftName": "Virtual Reality",
+          "creatorName": "vrArtist",
+          "currentBid": 3.9,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 115
+        },
+        {
+          "id": 18,
+          "nftName": "Wild Safari",
+          "creatorName": "wildArtist",
+          "currentBid": 1.6,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 95
+        },
+        {
+          "id": 19,
+          "nftName": "Color Explosion",
+          "creatorName": "abstractVibes",
+          "currentBid": 6.15,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 165
+        },
+        {
+          "id": 20,
+          "nftName": "Space Odyssey",
+          "creatorName": "astroDreamer",
+          "currentBid": 4.7,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 220
+        },
+        {
+          "id": 21,
+          "nftName": "Golden Sands",
+          "creatorName": "desertTraveler",
+          "currentBid": 2.05,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 55
+        },
+        {
+          "id": 22,
+          "nftName": "Urban Escape",
+          "creatorName": "cityExplorer",
+          "currentBid": 5.65,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 150
+        },
+        {
+          "id": 23,
+          "nftName": "Floral Symphony",
+          "creatorName": "flowerArtist",
+          "currentBid": 3.4,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 135
+        },
+        {
+          "id": 24,
+          "nftName": "Celestial Dreams",
+          "creatorName": "starGazer",
+          "currentBid": 7.45,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 275
+        },
+        {
+          "id": 25,
+          "nftName": "Prismatic View",
+          "creatorName": "rainbowMaster",
+          "currentBid": 9.1,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 310
+        },
+        {
+          "id": 26,
+          "nftName": "Frozen Moment",
+          "creatorName": "iceArtist",
+          "currentBid": 6.55,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 200
+        },
+        {
+          "id": 27,
+          "nftName": "Desert Mirage",
+          "creatorName": "sandStorm",
+          "currentBid": 2.2,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 75
+        },
+        {
+          "id": 28,
+          "nftName": "Street Shadows",
+          "creatorName": "urbanMaster",
+          "currentBid": 3.75,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 125
+        },
+        {
+          "id": 29,
+          "nftName": "Cybernetic Life",
+          "creatorName": "mechArtist",
+          "currentBid": 8.99,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 335
+        },
+        {
+          "id": 30,
+          "nftName": "Electric Surge",
+          "creatorName": "voltageMaster",
+          "currentBid": 4.85,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 180
+        },
+        {
+          "id": 31,
+          "nftName": "Virtual Horizon",
+          "creatorName": "horizonArtist",
+          "currentBid": 7.05,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 215
+        },
+        {
+          "id": 32,
+          "nftName": "Mountain Peaks",
+          "creatorName": "peakDreamer",
+          "currentBid": 3.55,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 90
+        },
+        {
+          "id": 33,
+          "nftName": "Stellar Waves",
+          "creatorName": "spaceSurfer",
+          "currentBid": 5.25,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 165
+        },
+        {
+          "id": 34,
+          "nftName": "Wild Horizons",
+          "creatorName": "wildDreams",
+          "currentBid": 2.9,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 130
+        },
+        {
+          "id": 35,
+          "nftName": "Bright Future",
+          "creatorName": "lightArtist",
+          "currentBid": 9.45,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 340
+        },
+        {
+          "id": 36,
+          "nftName": "Abstract Flow",
+          "creatorName": "flowArtist",
+          "currentBid": 1.85,
+          "bidCurrency": "ETH",
+          "imgUrl":"https://picsum.photos/200/300",
+          "likes": 110
+        }
+    ]
+}
